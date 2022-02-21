@@ -1,2 +1,2 @@
 # GifsApp
-Pagina de consumo de Api básica
+Pagina de busqueda de gifs.
