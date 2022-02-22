@@ -29,4 +29,3 @@ _Las herramientas que utilicé para crear este proyecto_
 
 * Gracias por revisar mi proyecto 🤓.
 * Escribeme por twitter si tienes alguna sugerencia. 📧
-
